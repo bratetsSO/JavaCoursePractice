@@ -23,7 +23,7 @@ public class Lesson01_2 {
             c = b - a;
             System.out.println("c = " + c);
         }*/
-        System.out.println("***************************");
+        System.out.println("****************************");
         /*if(a%3==0){
             System.out.println("Число a делится на 3");
         } else {
